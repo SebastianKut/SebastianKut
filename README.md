@@ -7,10 +7,10 @@ If you are interested in working with me, hiring me or simply fancy a chat, feel
 
 Skills: JS / HTML / CSS
 
-- 🌱 I’m currently learning React  
-- 👯 I’m looking to collaborate on any project that involves Vanilla JS or React 
+- 🌱 I'm currently learning ReactJS  
+- 👯 Looking to collaborate on open source project that involves Vanilla JS or React 
 - 💬 Ask me about anything code or digital audio 
-- 📫 How to reach me: sebastian_kut@yahoo.co.uk 
+- 📫 You can reach me @: sebastian_kut@yahoo.co.uk 
 
 <hr>
 
