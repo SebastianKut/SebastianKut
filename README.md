@@ -10,7 +10,7 @@ Skills: JS / HTML / CSS
 - 🌱 I'm currently learning ReactJS  
 - 👯 Looking to collaborate on open source project that involves Vanilla JS or React 
 - 💬 Ask me about anything code or digital audio 
-- 📫 If you are interested or want to find out more, check out my website: www.sebastiankut.com
+- 📫 If you are interested in hiring me and want to find out more, check out my website: www.sebastiankut.com or send me an email: sebastian_kut@yahoo.co.uk
 
 <hr>
 
