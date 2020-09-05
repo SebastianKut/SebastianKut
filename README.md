@@ -1,6 +1,6 @@
 # Hi there 👋, Sebastian here...
 ## Welcome to my profile!
-After years of working in the entertainments industry as a Sound Engineer, in April 2020 I decided that it was time for a new challenge. Channelling my passion for learning, I set a new, personal goal of becoming a Front-End Web Developer. This year I have been lucky enough, to be able to allocate 8-10 hours a day, to learn computer programming and build projects, both for my portfolio and for initial clients. 
+After years of working in the entertainments industry as a Sound Engineer, I decided that it was time for a new challenge. Channelling my passion for learning, I set a new, personal goal of becoming a Front-End Web Developer. This year I have been lucky enough, to be able to allocate 8-10 hours a day, to learn computer programming and build projects, both for my portfolio and for initial clients. 
 If you are interested in working with me, hiring me or simply fancy a chat, feel free to message me.
 
 <hr>
