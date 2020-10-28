@@ -1,14 +1,14 @@
 # Hi there 👋, Sebastian here...
 ## Welcome to my profile!
-After years of working in the entertainments industry as a Sound Engineer, I decided that it was time for a new challenge. Channelling my passion for learning, I set a new, personal goal of becoming a Software Developer. This year I have been lucky enough, to be able to allocate 8-10 hours a day, to learn computer programming and build projects, both for my portfolio and for initial clients. 
+After years of working in the entertainments industry as a Sound Engineer, I decided that it was time for a new challenge. Channelling my passion for learning, I set a new, personal goal of becoming a Software Developer. This year I have been lucky enough to learn computer programming and build projects full-time, both for my portfolio and for clients. 
 If you are interested in working with me, hiring me or simply fancy a chat, feel free to message me.
 
 <hr>
 
 Skills: JS / HTML / CSS
 
-- 🌱 My tech stack includes: React, Javascript, HTML, CSS.
-- 👯 Looking to collaborate on open source project that involves Vanilla JS or React 
+- 🌱 My tech stack includes: Javascript, React, HTML, CSS, Node, Express and MySQL
+- 👯 Looking to collaborate on open source project either on Frontend or Backend  
 - 💬 Ask me about anything code or digital audio 
 - 📫 If you are interested in hiring me and want to find out more, check out my website: www.sebastiankut.com or send me an email: sebastian_kut@yahoo.co.uk
 
