@@ -5,7 +5,7 @@ If you are interested in working with me, hiring me or simply fancy a chat, feel
 
 <hr>
 
-Skills: JS / HTML / CSS
+Skills: REACT, JAVASCRIPT / HTML / CSS
 
 - 🌱 My tech stack includes: Javascript, ReactJS, HTML, CSS, NodeJS, Express, PHP and MySQL
 - 👯 Looking to collaborate on open source project either on Frontend or Backend  
