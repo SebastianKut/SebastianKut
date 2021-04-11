@@ -7,7 +7,7 @@ If you are interested in working with me, hiring me or simply fancy a chat, feel
 
 Skills: REACT, JAVASCRIPT / HTML / CSS
 
-- 🌱 My tech stack includes: Javascript, ReactJS, HTML, CSS, NodeJS, Express, PHP and MySQL
+- 🌱 My tech stack includes: Javascript, ReactJS, PHP, Laravel and MySQL
 - 👯 Looking to collaborate on open source project either on Frontend or Backend  
 - 💬 Ask me about anything code or digital audio 
 - 📫 If you are interested in hiring me and want to find out more, check out my website: www.sebastiankut.com or send me an email: sebastian_kut@yahoo.co.uk
